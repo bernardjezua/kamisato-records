@@ -4,7 +4,7 @@
 * other details. The user can then see the list of friends and view the 
 * summary of the friend's details.
 *
-* @author RebberChicken
+* @author bernardjezua
 * @created_date 2023-07-05 16:45
 * DO NOT COPY OR USE THE CODE FOR OTHER PURPOSES.
 ***********************************************************/
